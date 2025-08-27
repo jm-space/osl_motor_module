@@ -1,2 +1,3 @@
-# osl_motor_module
-Remote controlled motor control module
+# Open-Spin-Launch - Motor module
+
+Enabling remote control of the motor
